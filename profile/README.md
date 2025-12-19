@@ -1,12 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<!-- Replace the src with your logo URL -->
+<img src="./assets/images/sn-white-black.png" alt="Skyzer Networks Logo" width="140"/>
 
-**Here are some ideas to get you started:**
+# **Skyzer Networks**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Modern Web Solutions for Small Businesses & Personal Brands
+
+</div>
+
+---
+
+## 🚀 About Skyzer Networks
+
+**Skyzer Networks** is a boutique, independent web agency focused on building **fast, secure, and visually striking websites** for small businesses, creators, and professionals.
+
+Every project is crafted with a **custom-first approach** — no bloated builders, no generic templates, and no unnecessary tracking.
+
+---
+
+## 🧠 What We Do
+
+- 🌐 **Custom Website Development**
+- 🎨 **Clean, Modern UI/UX Design**
+- ⚡ **Performance & SEO Optimization**
+- 🔒 **Privacy-First & Secure Builds**
+- 🧩 **Portfolio & Business Websites**
+- 🛠️ **Template & Custom Solutions**
+
+---
+
+## 🧱 Our Philosophy
+
+- **Custom Code Over Templates**  
+- **Privacy Over Data Harvesting**  
+- **Performance Over Bloat**  
+- **Quality Over Quantity**
+
+We don’t believe in one-size-fits-all websites — every build is engineered specifically for the client.
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+HTML5 • CSS3 • JavaScript
+Responsive Design • SEO Best Practices
+Accessibility • Performance Optimization
