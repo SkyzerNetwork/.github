@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the src with your logo URL -->
-<img src="./assets/images/sn-white-black.png" alt="Skyzer Networks Logo" width="140"/>
+<img src="../assets/skyzernetworks_logo_white.png" alt="Skyzer Networks Logo" width="140"/>
 
 # **Skyzer Networks**
 
